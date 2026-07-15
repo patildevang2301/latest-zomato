@@ -1,0 +1,159 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.sec{
+	background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
+	height:500px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	color:white;
+	width:100%;
+	margin-top:0%;
+}
+.div{
+	background-color:;
+	width:40%;
+	float:right;
+	margin-top:25px;
+	font-size:22px;
+}
+.add{
+	background-color:;
+	margin-right:7%;	
+}
+.log{
+	background-color:;
+	margin-right:7%;	
+}
+.div2{
+	background-color:;
+	width:40%;
+	margin:11% 0px 0px 30%;
+	float:left;
+	text-align:center;
+}
+.name{
+	background-color:;
+	font-size:60px;
+}
+
+.name:hover{
+	color:red;
+}
+.info{
+	background-color:;
+	font-size:40px;
+	margin-top:1%;
+}
+.flag{
+	height:35px;
+	width:50px;
+	border-radius:10px;
+}
+.div3{
+	background-color:;
+	margin-top:1%;
+}
+.head{
+	font-size:40px;
+	text-align:center;
+	padding:10px;
+}
+.info2{
+	background-color:;
+	margin-top:1%;
+	font-size:23px;
+	text-align:center;
+	color:#818589;
+}
+.class1{
+	background-color:;
+	border:1px solid #E7E5E4;
+	border-radius:10px;
+	width:25%;
+	font-size:25px;
+	padding:13px 13px 13px 23px;
+	float:left;
+	margin-left:4%;
+	margin-top:3%;
+}
+.icon{
+	float:right;
+}
+.footer{
+	background-color:#F5F5F4;
+	width:100%;
+	float:left;
+	margin-top:3%;
+}
+.name2{
+	background-color:;
+	width:20%;
+	float:left;
+	margin:2% 0px 0px 10%;
+}
+.text{
+	font-size:40px;
+}
+.global{
+	background-color:;
+	width:25%;
+	margin:2% 0px 0px 40%;
+	float:left;
+}
+.flag2{
+	height:20px;
+	width:30px;
+	padding-right:10px;
+}
+.img1{
+	border:1px solid grey;
+	padding:10px;
+	font-size:20px;
+	float:left;
+	border-radius:10px;
+	margin-right:5%;
+}
+.img2{
+	border:1px solid grey;
+	padding:11px;
+	font-size:20px;
+	float:left;
+	border-radius:10px;
+}
+.info3{
+	background-color:;
+	float:left;
+	width:100%;
+	margin-top:3%;
+}
+.about{
+	background-color:;
+	width:15%;
+	float:left;
+}
+.zoom{
+	margin-left:10%;
+}
+p.link{
+	margin-top:5%;
+	color:#A6A09B;
+}
+.icon2{
+	height:90px;
+	width:90px;
+}
+.cap{
+	background-color:;
+	float:left;
+}
+.class2{
+	background-color:;
+	float:left;
+	margin-left:10%;
+	border-top:1px solid #A6A09B;
+	padding-top:2%;
+	margin-top:5%;
+	color:#A6A09B;
+}
